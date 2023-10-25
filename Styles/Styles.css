@@ -1,0 +1,78 @@
+.DivColor{
+    background-color: blueviolet;
+    
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+.title-color {
+    color: #c95f5f;
+    font-weight: 400;
+}
+
+.container {
+    margin-top: 50px;
+    
+}
+
+.dogs {
+    width: 100%;
+}
+
+.bordergrp {
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+.coltext {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.cardbox {
+    background-color: rgb(75, 0, 128);
+    
+}
+
+.dot {
+    height: 30px;
+    width: 30px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  .dot1 {
+    background-color: blue;
+  }
+
+  .dot2 {
+    background-color: rgb(146, 88, 146);
+  }
+
+  .dot3 {
+    background-color: green;
+  }
+  .dot4 {
+    background-color: red;
+  }
+  .dot5 {
+    background-color: yellow;
+  }
+  .dot6 {
+    background-color: azure;
+  }
+  .dot7 {
+    background-color: beige;
+  }
+  .dot8 {
+    
+  }
+.dogcards {
+    justify-content: space-between;
+}
